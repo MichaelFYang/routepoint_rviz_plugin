@@ -1,0 +1,9 @@
+<library path="lib/libroutepoint_rviz_plugin">
+    <class name="rviz/RoutePointTool"
+           type="rviz::RoutePointTool"
+           base_class_type="rviz::Tool">
+        <description>
+            A tool for sending routepoints to dynamic route planner
+        </description>
+    </class>
+</library>
